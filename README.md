@@ -115,7 +115,3 @@ Below is a simplified diagram describing the training process for each expert:
 - The system routes the transaction to the Metaplex expert.  
 - A final text explanation addresses the NFT edition minting process, referencing possible permission or supply issues.  
 - A Mermaid diagram outlines the flow between the master edition and the newly minted edition.
-
----
-
-**Solana Transaction Parser Application**: Empowering users and developers with clear, actionable insights into the diverse world of Solana transactions.
